@@ -1,0 +1,11 @@
+# ESG Analysis Notebook (Lecture 5 - Data Preprocessing & Events)
+python-dotenv>=1.0
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+scipy>=1.10
+scikit-learn>=1.2
+
+# LSEG Refinitiv for ESG and stock prices (TR.* fields, TR.PriceClose)
+refinitiv-data>=1.0
